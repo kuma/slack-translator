@@ -1,0 +1,7 @@
+export PROJECT_ID=""
+export LOCATION=""
+export MODEL_NAME=""
+export BOT_TOKEN=""
+export BOT_NAME=""
+
+go run .
